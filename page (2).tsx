@@ -278,7 +278,7 @@ export default function ProductsPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-4 sm:mb-6">Need Help Choosing?</h2>
           <p className="text-lg sm:text-xl text-blue-100 mb-6 sm:mb-8 max-w-3xl mx-auto">
-            Our experts are here to help you find the perfect window treatments for your home. Get a free consultation today!
+            Get expert help from a dedicated professional – book your free consultation today!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:9691177119" className="bg-white text-blue-600 px-6 sm:px-8 py-3 sm:py-4 rounded-lg text-base sm:text-lg font-semibold hover:bg-gray-100 cursor-pointer whitespace-nowrap inline-block">
@@ -347,11 +347,11 @@ export default function ProductsPage() {
                 </div>
                 <div className="flex items-center text-sm sm:text-base">
                   <i className="ri-mail-line mr-3 text-lg"></i>
-                  <span>info@vishublinds.com</span>
+                  <span>vikaspatel88894@gmail.com</span>
                 </div>
                 <div className="flex items-start text-sm sm:text-base">
                   <i className="ri-map-pin-line mr-3 mt-1 text-lg"></i>
-                  <span>123 Window Street<br />Interior City, IC 12345</span>
+                  <span>Vill.Khatipipliya buranakhedi, Kandiya road,Indore(M.P)</span>
                 </div>
                 <div className="flex items-center text-sm sm:text-base">
                   <i className="ri-time-line mr-3 text-lg"></i>
@@ -368,7 +368,8 @@ export default function ProductsPage() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 sm:mt-12 pt-6 sm:pt-8 text-center text-sm sm:text-base text-gray-400">
-            <p>&copy; 2024 Vishu Blinds and Curtains. All rights reserved.</p>
+            <p>ᴠɪᴋᴀꜱ ᴘᴀᴛᴇʟ❤️‍🔥. All rights reserved.</p>
+            <p>👑 Created by Vikas</p>
           </div>
         </div>
       </footer>
